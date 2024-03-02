@@ -1,5 +1,5 @@
 # 💫 About Me:
-Economista, Especialista en Estadística Aplicada, con conocimiento certificado en análisis de datos, con amplia experiencia laboral en procesos administrativos, manejo de procesos de planeación estratégica,con experiencia desarrollando labores de análisis de información descriptiva y predictiva, análisis multivariados propios del sector mediante uso de programas estadísticos y Big Data.
+Economista, Especialista en Estadística Aplicada, con conocimiento certificado en análisis de datos, con amplia experiencia laboral en procesos administrativos, manejo de procesos de planeación estratégica, con experiencia desarrollando labores de análisis de información descriptiva y predictiva, análisis multivariados propios del sector financiero, asegurador y servicios mediante uso de programas estadísticos y Big Data.
 
 
 ## 🌐 Socials:
